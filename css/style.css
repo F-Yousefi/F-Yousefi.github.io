@@ -13,9 +13,6 @@ body {
   background-color: #000;
   font-family: sans-serif;
   color: white;
-  margin-bottom: 5%;
-  margin-bottom: 2%;
-  padding: 2%;
 }
 
 .splash-screen {
@@ -33,6 +30,16 @@ body {
 .logo {
   display: inline-block;
   margin-top: 40%;
+}
+@media ((max-width: 768px) and (orientation: portrait)) {
+  .gameplay {
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    margin: auto;
+    border: 3px solid white;
+    position: relative;
+  }
 }
 .gameplay {
   height: 750px;
@@ -139,15 +146,15 @@ footer {
 .the-end {
   background-color: inherit;
   border: 1px solid snow;
+  position: absolute;
   width: 100%;
   height: 100%;
-  position: absolute;
   top: 0px;
   left: 0px;
   opacity: 0;
   transition: opacity 1s ease-in-out;
   visibility: hidden;
-  position: relative;
+  position: absolute;
   text-align: center;
 }
 .the-end.fade-in {
