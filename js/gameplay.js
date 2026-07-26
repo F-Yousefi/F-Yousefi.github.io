@@ -39,7 +39,7 @@ const splashScreen = document.getElementById("splash_screen");
 // creation of gameplay
 const avail = []; // active btns
 let idCounter = ""; // id calculator
-const rowNum = 7;
+const rowNum = 8;
 const colNum = 7;
 
 startButton.addEventListener("click", fadeSplashScreen);
