@@ -35,6 +35,7 @@ const starsNumber = document.getElementById("stars_number");
 let moves = 0;
 const startButton = document.getElementById("start_button");
 const splashScreen = document.getElementById("splash_screen");
+const tryAgainButton = document.getElementById("try_again_button");
 
 // creation of gameplay
 const avail = []; // active btns
@@ -46,6 +47,10 @@ startButton.addEventListener("click", fadeSplashScreen);
 splashScreen.addEventListener("transitionend", () => {
   splashScreen.parentNode.removeChild(splashScreen);
   gameMap.classList.add("fade-in");
+});
+
+tryAgainButton.addEventListener("click", () => {
+  window.location.reload();
 });
 
 for (let j = 0; j < rowNum; j++) {
