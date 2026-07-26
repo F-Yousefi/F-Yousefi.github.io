@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Dream Finder</title>
+  </head>
+  <body style="background-color: bl">
+    <header></header>
+    <article class="gameplay">
+      <div id="splash_screen" class="splash-screen gameplay">
+        <h1 class="logo">Dream Finder</h1>
+        <p>Follow Your Dreams....</p>
+        <button id="start_button" style="margin-top: 40%">Start</button>
+        <footer>Copyright &copy; by Farzad Yousefi</footer>
+      </div>
+      <div id="game_map" class="game-map">
+        <div class="guide-msg">
+          <div class="record-box">
+            <div>
+              <h2 id="stars_number">Stars:</h2>
+              <h2 id="moves_number">Moves:</h2>
+            </div>
+          </div>
+          <div class="guide-box">
+            <h1 style="display: block; width: 100%; font-size: 60px" id="hint">
+              X
+            </h1>
+          </div>
+        </div>
+      </div>
+      <div class="the-end" id="the_end_screen">
+        <img src="img/moon.PNG" alt="moon" class="moon" />
+        <p class="end-msg">The End...</p>
+        <p>Sweet Dreams</p>
+      </div>
+    </article>
+    <script src="js/gameplay.js"></script>
+  </body>
+</html>

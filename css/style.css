@@ -14,6 +14,8 @@ body {
   font-family: cursive;
   color: white;
   margin-bottom: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
 .splash-screen {
@@ -33,7 +35,7 @@ body {
   margin-top: 40%;
 }
 .gameplay {
-  height: 800px;
+  height: 750px;
   width: 400px;
   background-color: #000;
   margin: auto;
