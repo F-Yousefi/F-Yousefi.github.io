@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/alpha-decor/static/css/main.449f4c9b.css",
+    "main.js": "/alpha-decor/static/js/main.13455b5c.js",
+    "static/media/Vazirmatn-VariableFont_wght.ttf": "/alpha-decor/static/media/Vazirmatn-VariableFont_wght.34b44d659bd67d0dae0e.ttf",
+    "static/media/B Yekan.ttf": "/alpha-decor/static/media/B Yekan.a63119cb654a1c836760.ttf",
+    "static/media/IMG_20260814_114243_267.webp": "/alpha-decor/static/media/IMG_20260814_114243_267.03f9dd998c5515a4b09f.webp",
+    "static/media/IMG_20260814_114251_924.webp": "/alpha-decor/static/media/IMG_20260814_114251_924.7768c5997bdbbfd7e4eb.webp",
+    "static/media/IMG_20260814_114306_095.webp": "/alpha-decor/static/media/IMG_20260814_114306_095.1293dafdee9bf575fcae.webp",
+    "static/media/IMG_20260814_114315_462.webp": "/alpha-decor/static/media/IMG_20260814_114315_462.79ab28267bade88daa4b.webp",
+    "static/media/IMG_20260814_114314_910.webp": "/alpha-decor/static/media/IMG_20260814_114314_910.83bcb7ac3182bb3059b4.webp",
+    "static/media/IMG_20260814_114251_880.webp": "/alpha-decor/static/media/IMG_20260814_114251_880.bf16f0f999b4bae94ea3.webp",
+    "static/media/IMG_20260814_114314_867.webp": "/alpha-decor/static/media/IMG_20260814_114314_867.d5c6025837ea9216682d.webp",
+    "static/media/IMG_20260814_114315_463.webp": "/alpha-decor/static/media/IMG_20260814_114315_463.014b63a595a71aaaee7c.webp",
+    "static/media/IMG_20260814_114315_121.webp": "/alpha-decor/static/media/IMG_20260814_114315_121.a62640319ae13873d0ad.webp",
+    "static/media/IMG_20260814_114314_861.webp": "/alpha-decor/static/media/IMG_20260814_114314_861.c04b0e89c3be13d1e2e1.webp",
+    "static/media/IMG_20260814_114315_062.webp": "/alpha-decor/static/media/IMG_20260814_114315_062.fb270abeeaedaf1ba11b.webp",
+    "static/media/IMG_20260814_114314_846.webp": "/alpha-decor/static/media/IMG_20260814_114314_846.f2de6129f5a960995336.webp",
+    "static/media/IMG_20260814_114314_635.webp": "/alpha-decor/static/media/IMG_20260814_114314_635.429177020f5e57aa2240.webp",
+    "static/media/IMG_20260814_114305_832.webp": "/alpha-decor/static/media/IMG_20260814_114305_832.b1ec589399850a5f897a.webp",
+    "static/media/IMG_20260814_114251_852.webp": "/alpha-decor/static/media/IMG_20260814_114251_852.019ce5cbede77c10e6c1.webp",
+    "static/media/instagram.svg": "/alpha-decor/static/media/instagram.577c67fc9c34601517928499c168d224.svg",
+    "static/media/whatsapp.svg": "/alpha-decor/static/media/whatsapp.731b15643807aa4a32b39cd54b4752be.svg",
+    "static/media/telegram.svg": "/alpha-decor/static/media/telegram.0c9595cec09641aed11ffa5f64f937ae.svg",
+    "index.html": "/alpha-decor/index.html",
+    "main.449f4c9b.css.map": "/alpha-decor/static/css/main.449f4c9b.css.map",
+    "main.13455b5c.js.map": "/alpha-decor/static/js/main.13455b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449f4c9b.css",
+    "static/js/main.13455b5c.js"
+  ]
+}
