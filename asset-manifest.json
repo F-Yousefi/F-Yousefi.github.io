@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96518764.css",
+    "main.js": "/static/js/main.e3393e40.js",
+    "static/media/Inter-VariableFont_opsz,wght.ttf": "/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/Exo2-VariableFont_wght.ttf": "/static/media/Exo2-VariableFont_wght.0dd085f670224d154034.ttf",
+    "static/media/BalooBhaijaan2-VariableFont_wght.ttf": "/static/media/BalooBhaijaan2-VariableFont_wght.ff0f78dcc4aae2b2c855.ttf",
+    "static/media/Lalezar-Regular.ttf": "/static/media/Lalezar-Regular.584e51c9ee645873d30b.ttf",
+    "static/media/RobotoSlab-VariableFont_wght.ttf": "/static/media/RobotoSlab-VariableFont_wght.eca99b6edbb8df56e1b8.ttf",
+    "static/media/Vazirmatn-VariableFont_wght.ttf": "/static/media/Vazirmatn-VariableFont_wght.34b44d659bd67d0dae0e.ttf",
+    "static/media/DMSans-VariableFont_opsz,wght.ttf": "/static/media/DMSans-VariableFont_opsz,wght.39867822ec01fc077cb5.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.dcef2f69dbd5989a2e69.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.41062caea457897b1d3b.woff2",
+    "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/B Yekan.ttf": "/static/media/B Yekan.a63119cb654a1c836760.ttf",
+    "static/media/background.avif": "/static/media/background.1813b0552b318dcead43.avif",
+    "index.html": "/index.html",
+    "main.96518764.css.map": "/static/css/main.96518764.css.map",
+    "main.e3393e40.js.map": "/static/js/main.e3393e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96518764.css",
+    "static/js/main.e3393e40.js"
+  ]
+}
